@@ -89,7 +89,7 @@ openL = [
 	[sg.InputText(key="domainName")],
 	[sg.Button("OK", key="ok_btn")]
 ]
-wnd = sg.Window("picViewer", openL)
+wnd = sg.Window("mstdnPicView", openL)
 wnd.finalize()
 
 while True:
