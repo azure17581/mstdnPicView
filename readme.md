@@ -6,6 +6,8 @@ windows かつ Full HD モニタを対象にレイアウトを組んでいるた
 ### 注意
 - **NSFW / CW （いわゆる閲覧注意）が設定された投稿もそのまま表示されます。**
 
+(TODO: 閲覧注意をワンクッション挟む)
+
 ## 必要なもの
 - [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 
